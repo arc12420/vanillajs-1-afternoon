@@ -81,15 +81,5 @@ function reset(){
     for(i = 0; i < row.length; i++){
         if (reset )
     }
+     
 }
-
-
-
-
-
-
-
-
-
-
-
